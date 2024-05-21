@@ -12,6 +12,7 @@ Dataset:
 https://www.kaggle.com/datasets/jainaru/global-ecological-footprint-2023
 
 **Data Summary**
+* These columns provide insights into the ecological impact of each country in terms of resource use and waste generation, as well as its biocapacity to support these activities.
     * Country: Name of the country.
     * Region: Geographic region to which the country belongs.
     * SDGi: Sustainable Development Goals index.
@@ -36,7 +37,7 @@ https://www.kaggle.com/datasets/jainaru/global-ecological-footprint-2023
     * Ecological (Deficit) or Reserve: The difference between total ecological footprint and total biocapacity, indicating whether the country has an ecological deficit (negative value) or reserve (positive value).
     * Number of Earths required: The number of Earths that would be required if everyone lived like the average person in the country.
     * Number of Countries required: The number of countries with the same biocapacity that would be required if everyone lived like the average person in the country.
-    * These columns provide insights into the ecological impact of each country in terms of resource use and waste generation, as well as its biocapacity to support these activities.
+
 
 **Then:**
 * Use machine learning (ML) with the technologies we’ve learned.
