@@ -10,6 +10,7 @@ Which countries consume more resources than they produce?
 
 Dataset: 
 https://www.kaggle.com/datasets/jainaru/global-ecological-footprint-2023
+public license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Data Summary**
 * These columns provide insights into the ecological impact of each country in terms of resource use and waste generation, as well as its biocapacity to support these activities.
